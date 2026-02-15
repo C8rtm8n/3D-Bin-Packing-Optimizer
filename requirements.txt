@@ -2,5 +2,5 @@ streamlit>=1.20.0
 pandas>=1.5.0
 plotly>=5.13.0
 numpy>=1.24.0
-py3dbp>=1.1.4
+py3dbp==1.1.2
 openpyxl>=3.1.0
